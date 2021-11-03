@@ -12056,9 +12056,10 @@ software_web
   about_developer
 -----------------------------*/
 .about_developer .image_about_dev img {
-  width: 100%;
+  /* width: 100%; */
   height: 350px;
   object-fit: cover;
+
 }
 
 /*
